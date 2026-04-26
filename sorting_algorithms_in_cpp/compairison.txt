@@ -1,0 +1,10 @@
+
+Assignment: Compairison report for Insertion and Counting sort
+Name: Jacob Cochran
+Date: 4/26/26
+
+The insertion sort has a O(n^2), while counting sort has a O(n) + O(k), where k is the largest number in the sort.
+Insertion sort has a Ω(n) and Counting sort has a Ω(n) + Ω(k), where k is the largest number in the sort.
+
+Insertion Sort: "This sort took 0.598759 seconds."
+Counting Sort: "This sort took 0.000818 seconds."
